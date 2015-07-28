@@ -1,0 +1,5 @@
+1. I put a well around the seminole connection sign.
+2. changed the button to a primary button
+3. I inserted a "new" label on the features that I added to indicate it was a new addition to the site. 
+4. I changed the input where you type the movie
+5. I made the movie title an active item.
